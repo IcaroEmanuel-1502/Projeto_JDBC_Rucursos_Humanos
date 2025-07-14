@@ -1,5 +1,5 @@
 
-# PROJETO_JDBO
+# PROJETO_JDBC
 
 Este projeto Java demonstra a implementação de um sistema simples de cadastro de funcionários utilizando JDBC (Java Database Connectivity) para conexão com banco de dados MySQL.
 
