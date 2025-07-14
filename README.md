@@ -69,6 +69,4 @@ Menu interativo via terminal:
 - Boas práticas de organização de código Java
 - Uso de SQL no contexto de aplicações Java
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
